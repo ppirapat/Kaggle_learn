@@ -1,0 +1,6 @@
+# Conda env
+conda_env_KG/
+
+
+*.pyc
+__pycache__/
